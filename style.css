@@ -45,7 +45,9 @@ nav ul li {
   border-radius: 12px;
   padding: 34px;
   background-image: url("./oleg-sergeichik-Ebhh_t6tjo0-unsplash.jpg");
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .botton {
